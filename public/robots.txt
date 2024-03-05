@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+json:-----------
+
+//npx json-server --watch path --port portNumber
